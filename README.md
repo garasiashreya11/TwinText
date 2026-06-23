@@ -104,7 +104,15 @@ TwinText helps students, researchers, educators, writers, and professionals ensu
 ---
 
 
-## 📸 Demo
+## 📸 Preview
+
+
+
+
+
+
+
+
 
 
 
